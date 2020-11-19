@@ -9,8 +9,8 @@ You can copy the module [here](https://pastebin.com/raw/LKYufeiH) or you can dow
 This is necessary for the trainer to find the process and change the values.
 You can copy it [here](https://pastebin.com/raw/KaVP7H0Z).
 
-If you are not a newbie, you probably know what to do right now.
-If not, please read this **tutorial**.
+### If you are not a newbie, you probably know what to do right now.
+### If not, please read this **tutorial**.
 
 # Tutorial
 
