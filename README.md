@@ -3,7 +3,7 @@ In this repository, you can find everything you need to make a game cheat/traine
 
 ## Module
 This module is necessary for the cheats to work. 
-You can copy the module [here]https://pastebin.com/raw/LKYufeiH or you can download it [here]https://github.com/manovisible/vbcheats/releases.
+You can copy the module [here]https://pastebin.com/raw/LKYufeiH or you can download it [here]https://github.com/manovisible/vbcheats/releases
 
 ## WritePointer
 This is necessary for the trainer to find the process and change the values.
