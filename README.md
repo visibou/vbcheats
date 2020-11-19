@@ -1,6 +1,6 @@
 # VB Cheats
 
-[code]
+[/code]
 Imports System.Runtime.InteropServices
 Imports Microsoft.VisualBasic
 Module Trainer
