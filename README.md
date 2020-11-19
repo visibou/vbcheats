@@ -11,6 +11,6 @@ You can copy the module [here](https://pastebin.com/raw/LKYufeiH) or you can dow
 This is necessary for the trainer to find the process and change the values.
 You can copy it [here](https://pastebin.com/raw/KaVP7H0Z).
 
-## Tutorial
+# Tutorial
 
 COMING SOON
